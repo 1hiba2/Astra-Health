@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+httpx
+pytest
+argon2-cffi
+email-validator
+google-genai>=3.3,<4
+httpx2>=2,<3
