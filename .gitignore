@@ -5,3 +5,13 @@ __pycache__/
 .pytest_cache/
 node_modules/
 dist/
+
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3-*
+*.db-*
+*.py[cod]
+.coverage
+htmlcov/
